@@ -16,9 +16,8 @@ layout:
     visible: true
 ---
 
-# Lời mở đầu
-
-Tài liệu này được tạo ra nhằm trình bày chi tiết giải pháp cho dự án khai thác, nghiên cứu, xây dựng, triển khai DAO tool trên Midnight.
+# Foreword
+This document is created to present a detailed solution for the project of researching, developing, and deploying a DAO tool on Midnight.
 
 
 
